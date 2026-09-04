@@ -1,0 +1,22 @@
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
